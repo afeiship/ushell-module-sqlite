@@ -1,0 +1,24 @@
+{
+  "name": "ushell-module-sqlite",
+  "version": "1.0.0",
+  "description": "Fix problems for sqlite.",
+  "main": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/ushell-module-sqlite.git"
+  },
+  "keywords": [
+    "ushell",
+    "unix",
+    "shell",
+    "ushell-module-sqlite"
+  ],
+  "authors": [
+    "feizheng <1290657123@qq.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/ushell-module-sqlite/issues"
+  },
+  "homepage": "https://github.com/afeiship/ushell-module-sqlite"
+}
